@@ -1,0 +1,14 @@
+0: boty
+1: caj
+2: cigan
+3: energatak
+4: energetak
+5: macko
+6: marec
+7: princezna
+8: skrina
+9: stolik
+10: sunka
+11: taska
+12: telefon
+13: uterak
